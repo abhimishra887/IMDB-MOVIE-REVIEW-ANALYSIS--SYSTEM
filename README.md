@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ### 3. Run the Application
 
 ```bash
-python app.py
+python Model_Testing_&_Web_Application.ipynb
 ```
 
 > This will launch a Gradio interface in your browser where you can enter a movie review and see its sentiment.
